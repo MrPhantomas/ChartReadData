@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.558,D:\YandexDisk\Phantom\RAD\Proj_3\Project1.cbproj=D:\YandexDisk\Phantom\RAD\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,D:\YandexDisk\Phantom\RAD\Proj_3\Unit1.h=D:\YandexDisk\Phantom\RAD\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,D:\YandexDisk\Phantom\RAD\Proj_3\Project1PCH1.h=D:\YandexDisk\Phantom\RAD\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,D:\YandexDisk\Phantom\RAD\Proj_3\Unit1.cpp=D:\YandexDisk\Phantom\RAD\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,=D:\YandexDisk\Phantom\RAD\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,D:\YandexDisk\Phantom\RAD\Proj_3\Unit1.dfm=D:\YandexDisk\Phantom\RAD\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.457,=D:\YandexDisk\Phantom\RAD\Unit1.cpp</Transaction>
+    <Transaction>2020.03.05 16:21:38.473,D:\YandexDisk\Phantom\RAD\Proj_3\Task_2PCH1.h=D:\YandexDisk\Phantom\RAD\Proj_3\Project1PCH1.h</Transaction>
+    <Transaction>2020.03.05 16:21:38.502,D:\YandexDisk\Phantom\RAD\Proj_3\Task_2.cbproj=D:\YandexDisk\Phantom\RAD\Proj_3\Project1.cbproj</Transaction>
+    <Transaction>2020.03.05 16:21:52.537,D:\YandexDisk\Phantom\RAD\Proj_3\MainWindow.h=D:\YandexDisk\Phantom\RAD\Proj_3\Unit1.h</Transaction>
+    <Transaction>2020.03.05 16:21:52.537,D:\YandexDisk\Phantom\RAD\Proj_3\MainWindow.dfm=D:\YandexDisk\Phantom\RAD\Proj_3\Unit1.dfm</Transaction>
+    <Transaction>2020.03.05 16:21:52.537,D:\YandexDisk\Phantom\RAD\Proj_3\MainWindow.cpp=D:\YandexDisk\Phantom\RAD\Proj_3\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
